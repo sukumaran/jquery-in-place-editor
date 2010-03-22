@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------------
+Version 1.1                                                       14 Februar 2010
+---------------------------------------------------------------------------------
+ - Almost complete rewrite of internals to make the code more maintainable
+
+---------------------------------------------------------------------------------
+Version 1.0.2                                                        09 June 2009
+---------------------------------------------------------------------------------
+ - added a new paramater to cancel alerting display of errors in callback function
+
+---------------------------------------------------------------------------------
+Version 1.0.1                                                       09 April 2009
+---------------------------------------------------------------------------------
+ - Minor Updates
+ - Script: Changed default save and cancel input fields to button elements
+ - Demo: Minor text changes and added link to demo.js file
+ - Demo: Added local version of jQuery lib instead of linking to google's
+ 
+---------------------------------------------------------------------------------
+Version 1.0.0                                                       06 April 2009
+---------------------------------------------------------------------------------
+ - Initial release
